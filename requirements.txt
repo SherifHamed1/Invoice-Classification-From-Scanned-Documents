@@ -1,0 +1,8 @@
+jupyterlab
+notebook
+torchsummary
+datasets
+scikit-learn
+matplotlib
+numpy
+Pillow
